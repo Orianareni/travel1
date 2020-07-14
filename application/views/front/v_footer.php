@@ -2,7 +2,7 @@
 <div id="footer">
                     <div class="container section end">
                         <div id="footer-about" class="one-fourth column">
-                            <p><img src="<?php echo base_url().'theme/images/footer-logo.png'?>" alt="" />
+                            <p><img src="<?php echo base_url().'theme/images/footerdkade-logo.png'?>" alt="" />
                             </p>
                             <p>
 								<br><a href="#">Alamat Kantor:</a></br>
@@ -18,7 +18,7 @@
                         </div>
                         
                         <div id="footer-offers" class="one-fourth column">
-                            <h4><span class="footer left">Paket Tour</span></h4>
+                            <h4><span class="footer left">Tarian</span></h4>
                             <ul>
                             <?php
                             foreach ($paket->result_array() as $h) {
