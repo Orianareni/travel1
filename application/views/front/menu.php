@@ -16,7 +16,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="<?php echo base_url().'event_post'?>">Eventttt</a>
+                            <a href="<?php echo base_url().'event_post'?>">Event</a>
                         </li>
                         <li>
                             <a href="<?php echo base_url().'paket_tour'?>">Tarian</a>
